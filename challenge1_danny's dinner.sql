@@ -230,6 +230,9 @@ order by 1,2) x
 -- The following questions are related creating basic data tables that Danny and his team can use to quickly derive insights without needing to join the underlying tables using SQL.
 -- Recreated table
 
+-- sol
+
+-- step1: use inner join and left join to joins table and apply case statements
 
 
 with cte as (select s.customer_id,s.order_date,m.price,
@@ -244,6 +247,9 @@ left join members ms on ms.customer_id = s.customer_id)
 --  the ranking of customer products, but  purposely does not need
 -- the ranking for non-member purchases so danny expects null ranking values for the records when customers are not yet part of the loyalty program.
 
+-- sol
+ -- step2: use window function to give rank to each member
+	
 
 select *,
  case when cte.member = 'Y' then  dense_rank()over(partition by cte.customer_id,cte.member order by cte.order_date)
