@@ -15,3 +15,8 @@ Week 6: Case Study 6 - Clique Bait
 Week 7: Case Study 7 - Balanced Tree
 Week 8: Case Study 8 - Fresh Segments
 
+Contributions
+This repository is a personal project, but contributions and suggestions are welcome! If you find any errors or have ideas for improvement, please feel free to open an issue or submit a pull request
+
+Acknowledgments
+A big thank you to the creators of the 8-Week SQL Challenge for putting together such a valuable learning resource. You can find more information and join the challenge yourself at 8weeksqlchallenge.com.
