@@ -1,2 +1,17 @@
 # sql_8week_challenge
-solution of sql 8 week challenge
+Welcome to my repository for the 8-Week SQL Challenge! This repository contains my solutions to each of the eight weekly SQL challenges designed to enhance your SQL skills through practical problem-solving.
+
+Challenge Overview
+The 8-Week SQL Challenge is a series of exercises that cover a wide range of SQL topics, including data manipulation, complex queries, joins, aggregations, and more. Each week presents a unique set of problems based on real-world scenarios, encouraging participants to apply their SQL knowledge and improve their database querying abilities.
+
+
+Weeks
+Week 1: Case Study 1 - Danny's Diner
+Week 2: Case Study 2 - Pizza Runner
+Week 3: Case Study 3 - Foodie-Fi
+Week 4: Case Study 4 - Data Bank
+Week 5: Case Study 5 - Data Mart
+Week 6: Case Study 6 - Clique Bait
+Week 7: Case Study 7 - Balanced Tree
+Week 8: Case Study 8 - Fresh Segments
+
