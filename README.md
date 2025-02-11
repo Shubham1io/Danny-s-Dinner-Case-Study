@@ -1,22 +1,12 @@
-# sql_8week_challenge
-Welcome to my repository for the 8-Week SQL Challenge! This repository contains my solutions to each of the eight weekly SQL challenges designed to enhance your SQL skills through practical problem-solving.
+Welcome to Danny’s Diner, where data meets delicious insights! This case study from the 8-Week SQL Challenge explores customer behavior, sales trends, and loyalty programs to help Danny optimize his business.
 
-Challenge Overview
-The 8-Week SQL Challenge is a series of exercises that cover a wide range of SQL topics, including data manipulation, complex queries, joins, aggregations, and more. Each week presents a unique set of problems based on real-world scenarios, encouraging participants to apply their SQL knowledge and improve their database querying abilities.
+ My Approach
+🔹 Data Cleaning & Exploration – Ensured structured query execution
+🔹 Joins & CTEs – Combined sales, menu, and membership data efficiently
+🔹 Aggregations & Window Functions – Analyzed spending trends and loyalty impact
+🔹 Subqueries & CASE Statements – Extracted key customer insights
 
-
-Weeks
-Week 1: Case Study 1 - Danny's Diner
-Week 2: Case Study 2 - Pizza Runner
-Week 3: Case Study 3 - Foodie-Fi
-Week 4: Case Study 4 - Data Bank
-Week 5: Case Study 5 - Data Mart
-Week 6: Case Study 6 - Clique Bait
-Week 7: Case Study 7 - Balanced Tree
-Week 8: Case Study 8 - Fresh Segments
-
-Contributions
-This repository is a personal project, but contributions and suggestions are welcome! If you find any errors or have ideas for improvement, please feel free to open an issue or submit a pull request
-
-Acknowledgments
-A big thank you to the creators of the 8-Week SQL Challenge for putting together such a valuable learning resource. You can find more information and join the challenge yourself at 8weeksqlchallenge.com.
+ Key Insights
+✔️ Identified top-spending customers & popular menu items
+✔️ Evaluated loyalty program effectiveness
+✔️ Analyzed revenue trends to optimize business strategies
